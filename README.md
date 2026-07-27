@@ -1,4 +1,4 @@
-Employee Analytics Dashboard | Google Looker Studio
+## Employee Analytics Dashboard | Google Looker Studio
 Project Overview
 
 The Employee Analytics Dashboard is an interactive Business Intelligence dashboard developed using Google Looker Studio with Microsoft Excel as the primary data source.
@@ -7,8 +7,7 @@ The purpose of this project is to transform raw employee data into meaningful in
 
 This project demonstrates practical Business Intelligence skills including data preparation, dashboard design, KPI development, and interactive reporting.
 
-Project Objectives
-
+## Project Objectives
 - Analyze employee data using interactive dashboards.
 - Monitor important HR Key Performance Indicators (KPIs).
 - Understand workforce demographics.
@@ -18,15 +17,13 @@ Project Objectives
 - Support HR decision-making through data visualization.
 - Build an executive-level dashboard for business reporting.
 
----
+## Tools & Technologies
+ Google Looker Studio (Dashboard Development )
+ Microsoft Excel ( Data Source )
+ Google Maps ( Geographic Visualization )
+ Data Visualization (Business Intelligence Reporting )
 
-Tools & Technologies
-| Google Looker Studio | Dashboard Development |
-| Microsoft Excel | Data Source |
-| Google Maps | Geographic Visualization |
-| Data Visualization | Business Intelligence Reporting |
-
-The dataset contains employee-related information including:
+## The dataset contains employee-related information including:
 - Employee Name
 - Employee ID
 - Gender
@@ -40,9 +37,8 @@ The dataset contains employee-related information including:
 - Joining Date
 - Geographic Location
 
-Dashboard Features
-1. KPI Scorecards
-
+## Dashboard Features
+## 1. KPI Scorecards
 The dashboard provides high-level business metrics including:
 -  Total Employees
 -  Working Employees
@@ -52,14 +48,13 @@ The dashboard provides high-level business metrics including:
 
 These KPIs allow management to quickly understand workforce performance.
 
-2. Employee Salary Table
+## 2. Employee Salary Table
 Displays:
 - Employee Name
 - Annual Salary
-
 The table highlights top earning employees and allows quick salary comparison.
 
- 3. Employee Distribution by Job Role
+ ## 3. Employee Distribution by Job Role
 A horizontal bar chart visualizes employee counts across different job positions such as:
 - Manager
 - Vice President
@@ -74,8 +69,7 @@ A horizontal bar chart visualizes employee counts across different job positions
 
 This helps understand organizational hierarchy.
 
- 4. Gender Distribution
-
+ ## 4. Gender Distribution
 A Pie Chart displays the percentage of:
 
 - Female Employees
@@ -83,24 +77,17 @@ A Pie Chart displays the percentage of:
 
 Useful for workforce diversity analysis.
 
-5. Employee Growth Trend
+## 5. Employee Growth Trend
 
 A Line Chart visualizes employee records over multiple years, helping identify workforce growth trends.
 
-6. Geographic Employee Distribution
+## 6. Geographic Employee Distribution
 A Google Maps visualization displays employee locations around the world.
 This enables geographical workforce analysis.
 
-7. Business Unit Analysis
-A Tree Map compares employee counts across business units including:
-- Corporate
-- Manufacturing
-- Research & Development
-- Specialty Products
-
 This visualization helps understand employee allocation across different business functions.
 
-Interactive Filters
+## Interactive Filters
 The dashboard includes dynamic filters for easy exploration:
 - Department
 - Age
@@ -108,7 +95,7 @@ The dashboard includes dynamic filters for easy exploration:
 
 Users can instantly analyze different employee segments.
 
-Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 The dashboard tracks the following KPIs:
 - Total Employees
 - Working Employees
@@ -118,7 +105,7 @@ The dashboard tracks the following KPIs:
 
 These KPIs provide an executive summary of organizational performance.
 
-Business Insights
+## Business Insights
 The dashboard enables organizations to answer questions such as:
 - How many employees are currently active?
 - What is the average employee salary?
@@ -129,7 +116,7 @@ The dashboard enables organizations to answer questions such as:
 - How has employee count changed over time?
 - Where are employees geographically located?
 
-Business Use Cases
+## Business Use Cases
 This dashboard can be used for:
 - HR Analytics
 - Workforce Planning
@@ -140,7 +127,7 @@ This dashboard can be used for:
 - Resource Planning
 - Business Intelligence Reporting
 
-Skills Demonstrated
+## Skills Demonstrated
 This project demonstrates the following skills:
 - Data Cleaning
 - Data Visualization
@@ -153,7 +140,7 @@ This project demonstrates the following skills:
 - Data Storytelling
 - Analytical Thinking
 
-Learning Outcomes
+## Learning Outcomes
 Through this project, I gained hands-on experience in:
 - Designing interactive BI dashboards.
 - Building executive KPI scorecards.
@@ -162,10 +149,10 @@ Through this project, I gained hands-on experience in:
 - Presenting business insights using Looker Studio.
 - Transforming Excel data into meaningful reports.
 
-About Me
-Aarzu Bharti
+## About Me
+## Aarzu Bharti
 
-MBA (Business Analytics) | Aspiring Data and Business Analyst
+
 
 
 
