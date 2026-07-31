@@ -103,11 +103,10 @@ These KPI values are displayed on the dashboard overview.
 ## Dashboard Features
 The dashboard includes several interactive reporting capabilities.
 
-1. Interactive Filters
-Users can filter reports by:
-Date Range
-Department
-Employee Age
+1.Interactive Filters- Users can filter reports by:
+-Date Range
+-Department
+-Employee Age
 
 All visualizations update dynamically based on the selected filters.
 
