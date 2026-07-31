@@ -94,7 +94,7 @@ Value: 92,806
 Measures the percentage of employees who have exited the organization.
 Value: 10.30%
 
-5. Female to Male Ratio
+5.Female to Male Ratio
 Shows the workforce gender ratio.
 Value: 1.06
 
