@@ -5,7 +5,6 @@
   <img src="employee-analytics-dashboard-looker-studio.png" alt="Employee Analytics Dashboard" width="1000"/>
 </p>
 
-
 # Project Overview
 Employees are the driving force behind every successful organization, and understanding workforce trends is essential for improving productivity, employee engagement, and organizational growth. Human Resource departments generate large volumes of employee data, but extracting meaningful insights from that information requires effective reporting and visualization tools.
 
@@ -16,7 +15,7 @@ The dashboard has been designed to provide decision-makers with a centralized re
 # Business Problem
 Organizations continuously recruit, promote, transfer, and retain employees across multiple departments and business units. Without interactive reporting, HR teams often struggle to identify workforce trends, monitor employee exits, analyze salary distribution, and evaluate organizational structure.
 
-# Key business questions include:
+## Key business questions include:
 
 -How many employees currently work in the organization?
 
@@ -36,7 +35,7 @@ Organizations continuously recruit, promote, transfer, and retain employees acro
 
 This dashboard answers these questions through interactive visualizations and executive-level KPIs.
 
-# Project Objectives
+## Project Objectives
 The primary objectives of this project are:
 
 -Monitor overall workforce performance.
@@ -61,7 +60,7 @@ The primary objectives of this project are:
 This project uses an employee workforce dataset containing organizational information related to employees, compensation, departments, positions, business units, demographics, and employment status.
 The dataset enables comprehensive workforce analysis by combining employee demographic information, organizational hierarchy, salary details, departmental assignments, and employment records into a single analytical dataset.
 
-# Dataset Description
+## Dataset Description
 The dataset includes employee information such as:
 
 -Employee Information
