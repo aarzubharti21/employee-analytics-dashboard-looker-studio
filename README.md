@@ -1,5 +1,5 @@
-## Employee Analytics Dashboard | Google Looker Studio
-# HR Workforce Analysis
+# Employee Analytics Dashboard | Google Looker Studio
+## HR Workforce Analysis
 
 <p align="center">
   <img src="employee-analytics-dashboard-looker-studio.png" alt="Employee Analytics Dashboard" width="1000"/>
