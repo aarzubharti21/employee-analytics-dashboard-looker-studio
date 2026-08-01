@@ -1,11 +1,7 @@
 # Employee Analytics Dashboard | Google Looker Studio
-## HR Workforce Analysis
-
-<p align="center">
-  <img src="employee-analytics-dashboard-looker-studio.png" alt="Employee Analytics Dashboard" width="1000"/>
-</p>
 
 # Project Overview
+
 Employees are the driving force behind every successful organization, and understanding workforce trends is essential for improving productivity, employee engagement, and organizational growth. Human Resource departments generate large volumes of employee data, but extracting meaningful insights from that information requires effective reporting and visualization tools.
 
 This project presents an Employee Analytics Dashboard developed using Google Looker Studio. The dashboard converts raw HR data into interactive business intelligence reports, enabling HR professionals and business leaders to monitor workforce demographics, salary distribution, employee exits, departmental performance, organizational structure, and workforce composition.
@@ -13,6 +9,7 @@ This project presents an Employee Analytics Dashboard developed using Google Loo
 The dashboard has been designed to provide decision-makers with a centralized reporting solution that supports strategic workforce planning and data-driven HR management.
 
 # Business Problem
+
 Organizations continuously recruit, promote, transfer, and retain employees across multiple departments and business units. Without interactive reporting, HR teams often struggle to identify workforce trends, monitor employee exits, analyze salary distribution, and evaluate organizational structure.
 
 ## Key business questions include:
@@ -36,6 +33,7 @@ Organizations continuously recruit, promote, transfer, and retain employees acro
 This dashboard answers these questions through interactive visualizations and executive-level KPIs.
 
 ## Project Objectives
+
 The primary objectives of this project are:
 
 -Monitor overall workforce performance.
@@ -57,10 +55,12 @@ The primary objectives of this project are:
 -Support strategic HR decision-making through business intelligence.
 
 # About the Dataset
+
 This project uses an employee workforce dataset containing organizational information related to employees, compensation, departments, positions, business units, demographics, and employment status.
 The dataset enables comprehensive workforce analysis by combining employee demographic information, organizational hierarchy, salary details, departmental assignments, and employment records into a single analytical dataset.
 
 ## Dataset Description
+
 The dataset includes employee information such as:
 
 -Employee Information
@@ -110,13 +110,15 @@ The dataset includes employee information such as:
 -Region
 
 # Dashboard Overview
+
 The dashboard provides an executive summary of workforce performance through interactive reports and dynamic filters.
 Users can monitor employee distribution, evaluate salary trends, compare business units, analyze organizational hierarchy, and identify workforce patterns in real time.
 
-## Executive KPIs
+1.**Executive KPIs**
+
 The dashboard displays several executive-level metrics.
 
-## Total Employees
+2.**Total Employees**
 
 **Displays the total workforce** : Value: 1,000 Employees
 
@@ -134,10 +136,11 @@ Value: 1.06
 
 These KPI values are displayed on the dashboard overview.
 
-## Dashboard Features
+# Dashboard Features
+
 The dashboard includes several interactive reporting capabilities.
 
-**Interactive Filters** - Users can filter reports by:
+1.**Interactive Filters** - Users can filter reports by:
 -Date Range
 
 -Department
@@ -145,31 +148,33 @@ The dashboard includes several interactive reporting capabilities.
 -Employee Age
 All visualizations update dynamically based on the selected filters.
 
-**Executive KPI Cards** - Provide an instant overview of workforce performance.
+2.**Executive KPI Cards** - Provide an instant overview of workforce performance.
 
-**Interactive Charts** - Allow users to compare workforce information across multiple business dimensions.
+3.**Interactive Charts** - Allow users to compare workforce information across multiple business dimensions.
 
-**Cross Filtering** - Selecting one chart automatically updates related dashboard components.
+4.**Cross Filtering** - Selecting one chart automatically updates related dashboard components.
 
 # Dashboard Visualizations
 The dashboard contains multiple visualizations supporting workforce analytics.
 
-**Top 10 Highest Paid Employees** - Ranks employees by annual salary, enabling HR leaders to review compensation distribution.
+1.**Top 10 Highest Paid Employees** - Ranks employees by annual salary, enabling HR leaders to review compensation distribution.
 
-**Employees by Job Position** - Displays employee counts across organizational roles such as Manager, Vice President, Senior Manager, Director, Analyst, Senior Analyst, Analyst II, Cloud Infrastructure Architect, Account Representative, and Network Administrator.
+2.**Employees by Job Position** - Displays employee counts across organizational roles such as Manager, Vice President, Senior Manager, Director, Analyst, Senior Analyst, Analyst II, Cloud Infrastructure Architect, Account Representative, and Network Administrator.
 
-**Gender Distribution** - Illustrates workforce composition by gender using a pie chart.
+3.**Gender Distribution** - Illustrates workforce composition by gender using a pie chart.
 The dashboard shows approximately:
 -Female: 51.5%
 -Male: 48.5%
 
-**Employee Trend Analysis** - Shows changes in employee records over time, helping HR teams monitor workforce growth and historical hiring patterns.
+4.**Employee Trend Analysis** - Shows changes in employee records over time, helping HR teams monitor workforce growth and historical hiring patterns.
 
-**Geographic Workforce Distribution** - Displays employee distribution across global regions using a map visualization.
+5.**Geographic Workforce Distribution** - Displays employee distribution across global regions using a map visualization.
 This enables organizations to understand workforce concentration geographically.
 
 # Business Unit Analysis
+
 Compares employee distribution across business units, including:
+
 -Specialty Products
 
 -Research & Development
@@ -180,7 +185,9 @@ Compares employee distribution across business units, including:
 This visualization helps identify workforce allocation across organizational divisions.
 
 # Data Preparation
+
 Before developing the dashboard, the dataset underwent several preprocessing steps.
+
 These included:
 
 -Data cleaning
@@ -196,10 +203,12 @@ These included:
 -Data quality checks
 
 -Creation of calculated metrics
+
 Preparation of analytical dimensions for reporting
 The cleaned dataset was then connected to Looker Studio for dashboard development.
 
 # Looker Studio Features Used
+
 This project demonstrates practical implementation of several Looker Studio capabilities.
 
 These include:
@@ -226,6 +235,7 @@ These include:
 -Responsive Dashboard Design
 
 # Business Insights
+
 -The dashboard provides several valuable workforce insights.
 
 -Workforce size and active employee counts can be monitored instantly.
@@ -243,7 +253,9 @@ These include:
 -Geographic analysis highlights employee distribution across regions.
 
 # Business Value
+
 This dashboard helps organizations to:
+
 -Improve workforce planning.
 
 -Monitor employee exits.
@@ -261,6 +273,7 @@ This dashboard helps organizations to:
 -Strengthen strategic HR management.
 
 # Skills Demonstrated
+
 This project demonstrates proficiency in:
 
 -HR Analytics
@@ -286,6 +299,7 @@ This project demonstrates proficiency in:
 -HR Reporting
 
 # Tools and Technologies
+
 The project was developed using:
 
 -Google Looker Studio
@@ -301,6 +315,7 @@ The project was developed using:
 -Business Intelligence Reporting
 
 # Learning Outcomes
+
 This project strengthened my understanding of:
 
 -Workforce analytics using business intelligence tools.
