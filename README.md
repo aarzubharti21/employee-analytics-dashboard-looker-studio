@@ -28,7 +28,7 @@ A structured data preparation and reporting approach was implemented to ensure a
 
 The final deliverable consists of a highly interactive **Looker Studio Employee Analytics Dashboard** that leverages dynamic filters and cross-filtering capabilities.
 
-- **Employee Overview Dashboard:** Displays key workforce KPIs including Total Employees, Working Employees, Annual Salary, Exit Rate, and Female-to-Male Ratio for quick organizational insights.
+- **Employee Overview Dashboard:** Displays key workforce KPIs including **Total Employees**, **Working Employees**, **Annual Salary**, **Exit Rate**, and **Female-to-Male Ratio** for quick organizational insights.
 
 - **Workforce Distribution Report:** Provides employee distribution by Department, Job Title, Gender, and Business Unit to understand organizational structure.
 
