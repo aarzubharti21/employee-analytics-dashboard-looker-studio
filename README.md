@@ -4,11 +4,11 @@
 
 I am highly enthusiastic to present the **Employee Analytics Dashboard**, an advanced **Looker Studio Analytics** project designed to transform raw employee data into actionable workforce intelligence. This project delivers an interactive reporting solution that provides deep insights into employee demographics, salary distribution, workforce composition, organizational hierarchy, and business unit performance, enabling HR teams to make informed, data-driven decisions.
 
-## Problem Statement
+## Key Business Need
 
 The primary objective was to develop a comprehensive workforce monitoring solution that provides a centralized view of employee performance and organizational insights. Traditional HR reports make it difficult to analyze workforce distribution, salary trends, employee demographics, and departmental performance. This project required the development of an interactive dashboard that enables users to seamlessly filter HR metrics by department, age, and date range while monitoring key workforce indicators.
 
-## Analysis Done
+## Work Performed
 
 > The file in which the analysis was done is **Employee Analytics Dashboard**
 
@@ -24,7 +24,7 @@ A structured data preparation and reporting approach was implemented to ensure a
 
 - **Interactive Reporting:** Designed dynamic charts, KPI cards, geographic analysis, and slicers to provide flexible workforce exploration.
 
-## Dashboard
+## Dashboard Insights
 
 The final deliverable consists of a highly interactive **Looker Studio Employee Analytics Dashboard** that leverages dynamic filters and cross-filtering capabilities.
 
@@ -40,7 +40,7 @@ The final deliverable consists of a highly interactive **Looker Studio Employee 
 
 - **Interactive Reporting:** Enables users to dynamically analyze HR metrics using filters for Department, Age, and Date Range.
 
-## Recommendations
+## Strategic Actions
 
 Drawing from the interactive exploration of the data, the following strategic actions are highly recommended to improve workforce management and organizational efficiency:
 
@@ -51,9 +51,6 @@ Drawing from the interactive exploration of the data, the following strategic ac
 - **Optimize Compensation Planning:** Review salary distribution periodically to ensure competitive compensation and internal pay equity.
 
 - **Support Strategic HR Decisions:** Continuously monitor workforce KPIs through interactive dashboards to improve recruitment, employee engagement, and long-term organizational planning.
-
-## Conclusion
-The Employee Analytics Dashboard demonstrates how Google Looker Studio can transform HR data into actionable business intelligence. By combining workforce demographics, organizational hierarchy, salary information, gender composition, business unit distribution, geographic data, and employee exit metrics into a single interactive dashboard, the project enables HR professionals to monitor workforce health and make informed strategic decisions. This project highlights practical skills in dashboard design, data visualization, KPI development, and business storytelling, making it a strong portfolio project for roles in HR Analytics, Business Intelligence, Data Analytics, and Workforce Analytics.
 
 ## Author
 Aarzu Bharti
