@@ -1,6 +1,6 @@
 # Employee Analytics Google Looker Studio Project
 
-## Overview
+## Project Overview
 
 I am highly enthusiastic to present the **Employee Analytics Dashboard**, an advanced **Looker Studio Analytics** project designed to transform raw employee data into actionable workforce intelligence. This project delivers an interactive reporting solution that provides deep insights into employee demographics, salary distribution, workforce composition, organizational hierarchy, and business unit performance, enabling HR teams to make informed, data-driven decisions.
 
